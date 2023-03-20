@@ -1,1 +1,2 @@
 test1
+conflicting line in feature_3
