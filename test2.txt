@@ -1,3 +1,4 @@
 test1
 conflicting line in main
+conflicting line in main
 conflicting line in feature_4
