@@ -5,3 +5,4 @@ conflicting line in feature_4
 conflicting line in main with feature_5
 conflicting line in feature_5
 conflict1 for rebase in main branch
+conflict2 for rebase in main branch
