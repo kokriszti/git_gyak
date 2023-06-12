@@ -10,3 +10,4 @@ conflict2 for rebase in rebase branch
 conflict1 for rebase in main branch
 conflict2 for rebase in main branch
 this line from main will have no conflict during rebase
+line from remote main
