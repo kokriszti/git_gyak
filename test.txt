@@ -7,3 +7,4 @@ test7
 test8
 test9
 this line from rebase branch will have no conflict during rebase
+line in local branch no conflict commit 1
