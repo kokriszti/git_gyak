@@ -12,4 +12,4 @@ conflict2 for rebase in main branch
 this line from main will have no conflict during rebase
 line from remote main
 line after remote main
-this line from remote main will have conflict on merge
+this line from local feature_8 will have conflict with main on merge. Keep local version.
