@@ -10,3 +10,4 @@ this line from rebase branch will have no conflict during rebase
 line in local branch no conflict commit 1
 line2 in local branch no conflict commit 2
 test10
+new line added after remote branch merged
